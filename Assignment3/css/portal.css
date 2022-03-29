@@ -1,0 +1,36 @@
+
+html {
+    background-color: #f2e1d8;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 0.95em;
+    line-height: 1.5em;
+}
+
+h1 {
+    font-weight:bold;
+    background: #4d4844;
+    line-height: 2.5em;
+    text-align: center;
+    color: ghostwhite;
+}
+
+
+h2 {
+    font-weight: normal;
+    margin-left: 1.5em;
+    line-height: 1em;
+    
+}
+
+
+div {
+    margin: 15px;
+    
+  }
+.car1 {
+    color:#7e2907;
+} 
+
+.car2 {
+    color:#425304;
+} 

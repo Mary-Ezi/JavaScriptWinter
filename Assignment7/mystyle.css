@@ -1,0 +1,34 @@
+
+    input {
+        border-style: solid;
+        border: #27DFD5;
+        border-width: medium;
+        /* backgroxund: #000; */
+        font: 'arail';
+        color: #FFF;
+    }
+
+
+    button {
+        font-size: 26px;
+        border-style: solid;
+        border: #27DFD5;
+        border-width: medium;
+        background: #000;
+        font: 'arail';
+        color: #FFF;
+    }
+
+
+    p {
+        border-style: solid;
+        border: medium;
+        border-color: #87E1F4;
+        float: left;
+        padding: 250px;
+        height: 300px;
+        background-image: url(gas-mileage.jpg);
+        /*opacity:.5;*/
+        background-repeat: no-repeat;
+        background-position: center;
+    }
